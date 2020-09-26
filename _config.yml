@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
+title: My Techincal Blogging Journal!
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
 github_username: sandy1618
 
@@ -18,7 +18,7 @@ twitter_username:
 use_math:true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics:UA-179104799-1
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
