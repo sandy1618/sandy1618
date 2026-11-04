@@ -2,8 +2,15 @@
 
 **AI Research Engineer · NLP, LLM evaluation & production AI** · Japan
 
-I turn AI research into systems that businesses run every day: they cut cost, save people's time and make decisions
-faster. 7+ years across manufacturing, telecom, consumer platforms and enterprise data, in Japan and India.
+**I connect technology to business.** I start from a real business problem, solve it with the right technology, and
+keep evolving the solution until it runs more efficiently and at lower cost.
+
+1. **Understand the business problem:** where time, money or decisions are being lost.
+2. **Solve it with technology:** AI, data and automation, built to run in production, not just in a demo.
+3. **Evolve it:** measure the result, then make it faster, cheaper and more reliable.
+
+For 7+ years I have followed this loop from the factory floor to telecom networks, consumer platforms and enterprise
+data, in India and Japan.
 
 #### 📜 Patents
 
