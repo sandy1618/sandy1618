@@ -24,21 +24,21 @@ faster. 7+ years across manufacturing, telecom, consumer platforms and enterpris
 
 #### 🎯 Top themes
 
-**Self-hosted, trustworthy LLMs**
-Helping companies run open-source language models on their own hardware, and know when an answer can be trusted.
+**Self-hosted, trustworthy LLMs**\
+Helping companies run open-source language models on their own hardware, and know when an answer can be trusted.\
 *Business impact:* lower AI cost, data kept in-house, and automation that hands uncertain cases to people.
 
-**Conversational analytics**
-Letting business teams ask questions of their data in plain language instead of waiting for an analyst.
+**Conversational analytics**\
+Letting business teams ask questions of their data in plain language instead of waiting for an analyst.\
 *Business impact:* faster decisions on large customer datasets; supported a major investment story.
 
-**AI for operations**
-Forecasting demand, spotting problems early and automating routine operational work in telecom and manufacturing.
+**AI for operations**\
+Forecasting demand, spotting problems early and automating routine operational work in telecom and manufacturing.\
 *Business impact:* energy and maintenance savings in the tens of millions of yen a year, and hundreds of hours handed
 back to teams.
 
-**Clean, connected data**
-Matching and de-duplicating records about the same people and companies across messy sources.
+**Clean, connected data**\
+Matching and de-duplicating records about the same people and companies across messy sources.\
 *Business impact:* data teams trust their records, and months of manual checking a year disappear.
 
 #### 🏆 Achievements
@@ -58,4 +58,3 @@ Matching and de-duplicating records about the same people and companies across m
 - Blog: [sandy1618.github.io](https://sandy1618.github.io)
   — latest: [llama.cpp vs BaseRT vs colibri: local LLM inference on an M1 Max](https://sandy1618.github.io/2026/11/04/inference-engines-on-apple-silicon.html)
 - Profile: [negitama.com/sandeep](https://www.negitama.com/sandeep)
-
