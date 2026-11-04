@@ -19,14 +19,14 @@ data, in India and Japan.
 
 #### 🧭 Professional journey
 
-| Where | Theme |
-|---|---|
-| XAION DATA · Japan | Enterprise LLM platforms |
-| Gaudiy · Japan | Conversational analytics & LLM quality |
-| Rakuten Mobile · Japan | AI for telecom operations |
-| Isha Foundation · India | Data quality & entity resolution |
-| Tohoku University · Japan | Applied ML research |
-| Tata Motors · India | Manufacturing efficiency |
+| Where | Role | Theme |
+|---|---|---|
+| XAION DATA · Japan | Lead Machine Learning Engineer | Enterprise LLM platforms |
+| Gaudiy · Japan | AI Engineer | Conversational analytics & LLM quality |
+| Rakuten Mobile · Japan | Software Engineer (AI) | AI for telecom operations |
+| Isha Foundation · India | Software Engineer (AI), part-time | Data quality & entity resolution |
+| Tohoku University · Japan | Applied ML Researcher | Applied ML research |
+| Tata Motors · India | Senior Manager (Planning) | Manufacturing efficiency |
 
 #### 🎯 Top themes
 
