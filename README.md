@@ -12,6 +12,16 @@ keep evolving the solution until it runs more efficiently and at lower cost.
 For 7+ years I have followed this loop from the factory floor to telecom networks, consumer platforms and enterprise
 data, in India and Japan.
 
+#### ✍️ Blog · [sandy1618.github.io](https://sandy1618.github.io)
+
+- [You are buying VRAM, but you should be looking at memory bandwidth too](https://sandy1618.github.io/2026/11/09/vram-is-not-enough-memory-bandwidth.html) *(Nov 2026)*
+- [llama.cpp vs BaseRT vs colibri: local LLM inference on an M1 Max](https://sandy1618.github.io/2026/11/04/inference-engines-on-apple-silicon.html) *(Nov 2026)*
+
+#### 🚀 Products
+
+- **[Negitama](https://www.negitama.com)** — AI tools platform, news community, newsletter & AI automation ([Profile](https://www.negitama.com/sandeep))
+- **[CanadaBiz](https://canadabiz.negitama.com)** — 1.47M-record Canadian business directory & B2B outreach dataset
+
 #### 📜 Patents
 
 - **User Interfaces & Rule Discovery Automation** · US 18/306,181 (granted) · [WIPO PATENTSCOPE record](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US441478743)
@@ -73,9 +83,3 @@ Matching and de-duplicating records about the same people and companies across m
 - **Hackster UV Robot Contest with Micron:** global winner (2020)
 - **UAV Design Competition (DRDO / Indian Air Force):** national 2nd place (2020)
 - **MEXT (Monbukagakusho) Scholarship:** Government of Japan (2018)
-
-#### ✍️ Writing
-
-- Blog: [sandy1618.github.io](https://sandy1618.github.io)
-  — latest: [llama.cpp vs BaseRT vs colibri: local LLM inference on an M1 Max](https://sandy1618.github.io/2026/11/04/inference-engines-on-apple-silicon.html)
-- Profile: [negitama.com/sandeep](https://www.negitama.com/sandeep)
