@@ -30,7 +30,7 @@ data, in India and Japan.
 
 | Organization | Industry | Role | Period | Focus |
 |---|---|---|---|---|
-| **softurns.ai** (Canada) | AI & IT Consulting | Senior AI Engineer (Consulting) | 12/2025 – Present | AI strategy, n8n R&D & platform architecture |
+| **softurns.ai** (Canada) | AI & IT Consulting | Senior AI Engineer (Consulting) | 2024 – 2025 | AI strategy, n8n R&D & platform architecture |
 | **Mirai Scien** (Japan) | AgTech | ML Engineer (Intern → Consulting) | 07–09/2021 (Intern)<br>09/2021 – 08/2024 (Consulting) | Weather time-series crop pest forecasting |
 | **Isha Foundation** (India) | CRM & Data | Software Engineer (AI), part-time | 08/2021 – 03/2022 | Entity resolution & fuzzy name matching |
 | **D.A. Consortium (DAC)** (Japan) | AdTech | Data Science Intern | 02/2021 – 04/2021 | Ad CTR prediction with DNNs (DeepFM, DCN) |
