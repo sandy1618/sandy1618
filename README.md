@@ -18,6 +18,13 @@ data, in India and Japan.
 - **[Negitama](https://www.negitama.com)** — AI tools platform, news community, newsletter & AI automation ([Profile](https://www.negitama.com/sandeep))
 - **[CanadaBiz](https://canadabiz.negitama.com)** — 1.47M-record Canadian business directory & B2B outreach dataset
 
+#### 🛠️ Open source & projects
+
+- **[langsmith-evaluation-helper](https://github.com/gaudiy/langsmith-evaluation-helper)** *(Gaudiy OSS, ★32)* — YAML-driven CLI & library for multi-provider LLM evaluation on LangSmith
+- **[fireducks_tutorial](https://github.com/sandy1618/fireducks_tutorial)** — DataFrame performance benchmarks comparing FireDucks, Polars & Pandas
+- **[MicronUVGIRobot](https://github.com/sandy1618/MicronUVGIRobot)** — Dockerized ROS autonomous UV sanitizing robot (Hackster Global Winner & Patent `IN 383226`)
+- **[mairu](https://github.com/NegitamaAI/mairu)** *(NegitamaAI)* — Chrome extension + FastAPI workflow automation across Google Sheets, Docs & Gmail
+
 #### 📜 Patents
 
 - **User Interfaces & Rule Discovery Automation** · US 18/306,181 (granted) · [WIPO PATENTSCOPE record](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US441478743)
