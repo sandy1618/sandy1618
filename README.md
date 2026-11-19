@@ -17,16 +17,36 @@ data, in India and Japan.
 - **User Interfaces & Rule Discovery Automation** · US 18/306,181 (granted) · [WIPO PATENTSCOPE record](https://patentscope2.wipo.int/search/en/detail.jsf?docId=US441478743)
 - **An Autonomous Ultraviolet Mobile Sanitising Robot** · IN 383226 (granted, 2021)
 
-#### 🧭 Professional journey
+#### 💼 Full-time industry experience
 
-| Where | Role | Theme |
+| Where | Role | Period | Theme |
+|---|---|---|---|
+| **XAION DATA** (Japan) | Lead Machine Learning Engineer | 08/2026 – Present | Enterprise LLM platforms |
+| **Gaudiy Inc.** (Japan) | AI Engineer | 04/2024 – 07/2026 | Conversational analytics & LLM quality |
+| **Rakuten Mobile** (Japan) | Software Engineer (AI) | 09/2022 – 03/2024 | AI for telecom operations |
+| **Tata Motors** (India) | Senior Manager (Planning) | 08/2016 – 09/2017 | Manufacturing efficiency |
+
+#### 🧩 Consulting, part-time & internships
+
+| Organization | Industry | Role | Period | Focus |
+|---|---|---|---|---|
+| **softurns.ai** (Canada) | AI & IT Consulting | Senior AI Engineer (Consulting) | 12/2025 – Present | AI strategy, n8n R&D & platform architecture |
+| **Mirai Scien** (Japan) | AgTech | ML Engineer (Intern → Consulting) | 07–09/2021 (Intern)<br>09/2021 – 08/2024 (Consulting) | Weather time-series crop pest forecasting |
+| **Isha Foundation** (India) | CRM & Data | Software Engineer (AI), part-time | 08/2021 – 03/2022 | Entity resolution & fuzzy name matching |
+| **D.A. Consortium (DAC)** (Japan) | AdTech | Data Science Intern | 02/2021 – 04/2021 | Ad CTR prediction with DNNs (DeepFM, DCN) |
+| **Solanets (Sola.com)** (Japan) | Social Analytics | Software Engineer (Intern / Part-time) | 12/2019 – 03/2020 | Twitter sentiment & topic-trend analysis |
+
+#### 🔬 Research experience — Tohoku University (Japan)
+
+| Role | Period | Focus |
 |---|---|---|
-| XAION DATA · Japan | Lead Machine Learning Engineer | Enterprise LLM platforms |
-| Gaudiy · Japan | AI Engineer | Conversational analytics & LLM quality |
-| Rakuten Mobile · Japan | Software Engineer (AI) | AI for telecom operations |
-| Isha Foundation · India | Software Engineer (AI), part-time | Data quality & entity resolution |
-| Tohoku University · Japan | Applied ML Researcher | Applied ML research |
-| Tata Motors · India | Senior Manager (Planning) | Manufacturing efficiency |
+| **Applied ML Researcher** (Post-graduate) | 04/2021 – 08/2022 | Bio-signal emotion estimation & human navigation |
+| **Research Student / Assistant** (Pre-Master's) | 04/2018 – 03/2019 | Robot vision & hazmat detection (MEXT) |
+
+#### 🎓 Education
+
+- **M.S. Applied Information Science (Data Science)**, Tohoku University (Japan) · 04/2019 – 03/2021
+- **B.Eng. Mechanical Engineering (Robotics & Controls)**, NIT Karnataka (India) · 07/2012 – 04/2016
 
 #### 🎯 Top themes
 
@@ -53,11 +73,6 @@ Matching and de-duplicating records about the same people and companies across m
 - **Hackster UV Robot Contest with Micron:** global winner (2020)
 - **UAV Design Competition (DRDO / Indian Air Force):** national 2nd place (2020)
 - **MEXT (Monbukagakusho) Scholarship:** Government of Japan (2018)
-
-#### 🎓 Education
-
-- **M.S. Applied Information Science (Data Science)**, Tohoku University, Japan
-- **B.Eng. Mechanical Engineering (Robotics & Controls)**, NIT Karnataka, India
 
 #### ✍️ Writing
 
