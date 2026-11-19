@@ -27,7 +27,7 @@ data, in India and Japan.
 
 | Where | Role | Period | Theme |
 |---|---|---|---|
-| **XAION DATA** (Japan) | Lead Machine Learning Engineer | 08/2026 – Present | Enterprise LLM platforms |
+| **XAION DATA** (Japan) | Lead Machine Learning Engineer | 08/2026 – Present | Enterprise LLM platforms & AI architecture consulting |
 | **Gaudiy Inc.** (Japan) | AI Engineer | 04/2024 – 07/2026 | Conversational analytics & LLM quality |
 | **Rakuten Mobile** (Japan) | Software Engineer (AI) | 09/2022 – 03/2024 | AI for telecom operations |
 | **Tata Motors** (India) | Senior Manager (Planning) | 08/2016 – 09/2017 | Manufacturing efficiency |
