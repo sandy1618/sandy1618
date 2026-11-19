@@ -1,6 +1,6 @@
 ### Hi, I'm Sandeep Nayak 👋
 
-**AI Research Engineer · NLP, LLM evaluation & production AI** · Japan
+**Full-Stack Agentic AI Engineer & Researcher · Multi-agent systems, LLM evaluation & production AI** · Japan
 
 **I connect technology to business.** I start from a real business problem, solve it with the right technology, and
 keep evolving the solution until it runs more efficiently and at lower cost.
