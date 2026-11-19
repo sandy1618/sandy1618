@@ -1,6 +1,7 @@
 ### Hi, I'm Sandeep Nayak 👋
 
-**Full-Stack Agentic AI Engineer & Researcher · Multi-agent systems, LLM evaluation & production AI** · Japan
+**Full-Stack Agentic AI Engineer & Researcher · Multi-agent systems, LLM evaluation & production AI** · Japan\
+**Blog:** [sandy1618.github.io](https://sandy1618.github.io)
 
 **I connect technology to business.** I start from a real business problem, solve it with the right technology, and
 keep evolving the solution until it runs more efficiently and at lower cost.
@@ -11,11 +12,6 @@ keep evolving the solution until it runs more efficiently and at lower cost.
 
 For 7+ years I have followed this loop from the factory floor to telecom networks, consumer platforms and enterprise
 data, in India and Japan.
-
-#### ✍️ Blog · [sandy1618.github.io](https://sandy1618.github.io)
-
-- [You are buying VRAM, but you should be looking at memory bandwidth too](https://sandy1618.github.io/2026/11/09/vram-is-not-enough-memory-bandwidth.html) *(Nov 2026)*
-- [llama.cpp vs BaseRT vs colibri: local LLM inference on an M1 Max](https://sandy1618.github.io/2026/11/04/inference-engines-on-apple-silicon.html) *(Nov 2026)*
 
 #### 🚀 Products
 
